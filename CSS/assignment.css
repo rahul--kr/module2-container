@@ -22,6 +22,9 @@
 	background-color: grey;
 	margin-left: 15px;
 	border: 5px solid black;
+}
+
+.container {
 	float: left;
 }
 
