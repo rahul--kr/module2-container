@@ -19,6 +19,7 @@ div {
 	background-color: grey;
 	margin-left: 15px;
 	border: 5px solid black;
+	float: left;
 }
 
 @media( min-width: 992px ) {
@@ -30,6 +31,10 @@ div {
 @media( min-width: 768 ) AND ( max-width: 991px ) {
 	div {
 		width: 50%;
+	}
+	
+	#splDiv {
+		width: 100%;
 	}
 }
 
