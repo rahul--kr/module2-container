@@ -34,7 +34,7 @@
 	}
 }
 
-@media( min-width: 768 ) AND ( max-width: 991px ) {
+@media( min-width: 768px ) AND ( max-width: 991px ) {
 	.container {
 		width: 50%;
 	}
