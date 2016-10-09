@@ -17,7 +17,7 @@
 	margin-left: 15px;
 }
 
-div {
+.div {
 	box-sizing: border-box;
 	background-color: grey;
 	margin-left: 15px;
@@ -26,13 +26,13 @@ div {
 }
 
 @media( min-width: 992px ) {
-	div {
+	.container {
 		width: 33.33%;
 	}
 }
 
 @media( min-width: 768 ) AND ( max-width: 991px ) {
-	div {
+	.container {
 		width: 50%;
 	}
 	
@@ -42,7 +42,7 @@ div {
 }
 
 @media( max-width: 767px ) {
-	div {
+	.container {
 		width: 100%;
 	}
 }
