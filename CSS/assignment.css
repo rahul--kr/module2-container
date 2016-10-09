@@ -1,20 +1,33 @@
 .header {
-  font-size: 175%;
-  text-align: center;
+	font-size: 175%;
+	text-align: center;
 }
 
 .title {
-  font-size: 125%;
-  position: relative;
-  margin-left: 15px;
-  margin-top: 15px;
+	font-size: 125%;
+	position: relative;
+	margin-left: 15px;
+	margin-top: 15px;
 }
 
 .text {
-  margin-left: 15px;
+	margin-left: 15px;
 }
 
 div {
-  margin-left: 15px;
-  border: 5px solid black;
+	background-color: grey;
+	margin-left: 15px;
+	border: 5px solid black;
+}
+
+#title1 {
+	background-color: pink;
+}
+
+#title2 {
+	background-color: red;
+}
+
+#title3 {
+	background-color: yellow;
 }
